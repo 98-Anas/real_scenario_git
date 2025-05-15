@@ -1,7 +1,5 @@
 # real_scenario_git
-
-````markdown
----
+---------------------
 
 ![image](https://github.com/user-attachments/assets/7c5cd71b-844d-41a7-9ed8-5c13bb419b73)
 
@@ -126,4 +124,3 @@ git push -u origin main develop alpha
 | Rebase            | `git rebase develop`             | Linearize history                |
 | Remote Sync       | `git push -u origin <branch>`    | Collaborate via GitHub           |
 
-````
