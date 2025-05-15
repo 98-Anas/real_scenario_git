@@ -99,18 +99,7 @@ git log --oneline --decorate --all --graph
 ![step_4](https://github.com/user-attachments/assets/4a322b6b-ef90-4164-8294-8fc74c0bd2b8)
 
 ---
-
-## Push to GitHub
-
-### 1. Create a new repository on GitHub (no README/license)
-
-### 2. Add remote and push all branches:
-```bash
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main develop alpha
-```
-
-### 3. Verify on GitHub:
+### Verify on GitHub:
 - Check branch dropdown menu
 - Inspect commit histories for each branch
 ---
